@@ -2,7 +2,7 @@
     "isDev": true,
     "logLevel": 3,
     "server": {
-        "port": 443,
+        "port": 80,
         "secure": true,
         "key": null,
         "cert": null,
